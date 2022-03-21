@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jakehorne
 - 👀 I’m interested in UX Design and Analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects about sports
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on projects about sports, music, and education
+- 📫 How to reach me: jakedh03@gmail.com
 
 <!---
 jakehorne/jakehorne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
