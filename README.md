@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakehorne
-- 👀 I’m interested in UX Design and Analytics
+- 👀 I’m interested in Information Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects about sports, music, and education
 - 📫 How to reach me: jakedh03@gmail.com
